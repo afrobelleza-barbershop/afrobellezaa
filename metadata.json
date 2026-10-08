@@ -1,0 +1,6 @@
+{
+  "name": "Afrobelleza Barber Shop",
+  "description": "Aplicación móvil y sistema de gestión profesional para Afrobelleza Barber Shop en México.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
